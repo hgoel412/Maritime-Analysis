@@ -1,0 +1,20 @@
+"Access","Start Time (UTCG)","Stop Time (UTCG)","Duration (sec)"
+1,1 Jan 2026 08:42:09.889,1 Jan 2026 20:00:00.000,40670.111
+
+Statistics
+"Min Duration",1,1 Jan 2026 08:42:09.889,1 Jan 2026 20:00:00.000,40670.111
+"Max Duration",1,1 Jan 2026 08:42:09.889,1 Jan 2026 20:00:00.000,40670.111
+"Mean Duration",,,,40670.111
+"Total Duration",,,,40670.111
+
+
+"Access","Start Time (UTCG)","Stop Time (UTCG)","Duration (sec)"
+1,1 Jan 2026 15:43:38.267,1 Jan 2026 20:00:00.000,15381.733
+
+Statistics
+"Min Duration",1,1 Jan 2026 15:43:38.267,1 Jan 2026 20:00:00.000,15381.733
+"Max Duration",1,1 Jan 2026 15:43:38.267,1 Jan 2026 20:00:00.000,15381.733
+"Mean Duration",,,,15381.733
+"Total Duration",,,,15381.733
+
+
